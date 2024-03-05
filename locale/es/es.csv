@@ -1,3 +1,4 @@
+i18n_key,i18n_value,locale
 front.login.samlButton,Acceder con SSO,es
 front.login.userNotFound,El usuario que has indicado no existe. Vuelve a intentarlo o ponte en contacto con un administrador,es
 front.notifications.acceptFriend,¡Acepto el reto!,es
